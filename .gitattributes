@@ -2,3 +2,7 @@
 
 #use exif strategy for performing diffs
 *.jpg diff=exif
+
+# attach an export ignore to anything that begins with a .
+.* export-ingnore
+tests export-ignore
