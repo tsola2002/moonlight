@@ -1,0 +1,1 @@
+// Samaple JS file

@@ -1,0 +1,4 @@
+# Git Attributes
+
+#use exif strategy for performing diffs
+*.jpg diff=exif
