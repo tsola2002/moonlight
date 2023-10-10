@@ -6,3 +6,4 @@
 # attach an export ignore to anything that begins with a .
 .* export-ingnore
 tests export-ignore
+*.js filter=updateAPIKey
